@@ -50,15 +50,21 @@ smart_news_chatbot/
 ├── requirements.txt              # List of Python dependencies
 
 Install dependencies
+
 pip install -r requirements.txt
 
 Run the App
+
 python app.py
 
 Sample company names:
+
 TCS
+
 Infosys
+
 tesla
+
 zoho
 
 Output:
