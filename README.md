@@ -14,9 +14,13 @@ A smart chatbot that finds and summarizes the latest news about any company in r
 
 🎨 Choose your output style:
 Bullet points
+
 Formal business summary
+
 Casual conversational style
+
 ✅ Uses only free, open-source AI models
+
 🌍 Simple UI built with Gradio
 
 🛠️ Tech Stack
@@ -26,13 +30,19 @@ Folder Structures:
 smart_news_chatbot/
 │
 ├── app.py                        # Gradio UI application entry point
+
 ├── main.py                       # CLI version to run chatbot (optional)
 │
 ├── chat_handler.py               # Handles small talk and greetings
+
 ├── company_cleaner.py            # Cleans and processes company name input
+
 ├── scraper.py                    # Extracts article content (e.g., with trafilatura)
+
 ├── style_formatter.py            # Formats summaries based on selected style
+
 ├── summarizer.py                 # Summarizes article text using HuggingFace model
+
 ├── web_search.py                 # Performs DuckDuckGo search for news links
 │
 ├── requirements.txt              # List of Python dependencies
