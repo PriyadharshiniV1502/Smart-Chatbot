@@ -5,9 +5,13 @@ A smart chatbot that finds and summarizes the latest news about any company in r
 
 
 🔎 Accepts any company name(s) (e.g., Google, Tesla, Infosys)
+
 🌐 Searches the internet in real-time (DuckDuckGo scraping)
+
 📰 Extracts & summarizes latest news articles
+
 💬 Supports casual chat, greetings, and non-company queries
+
 🎨 Choose your output style:
 Bullet points
 Formal business summary
