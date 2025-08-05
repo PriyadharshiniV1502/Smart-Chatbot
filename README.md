@@ -1,4 +1,4 @@
-🧠 Smart News Chatbot
+                                                             🧠 Smart News Chatbot
 A smart chatbot that finds and summarizes the latest news about any company in real-time. It supports natural conversations, different output styles,and works entirely using free, open-source tools — no paid APIs
 
 🚀 Features
