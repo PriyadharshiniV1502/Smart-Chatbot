@@ -2,6 +2,8 @@
 A smart chatbot that finds and summarizes the latest news about any company in real-time. It supports natural conversations, different output styles,and works entirely using free, open-source tools — no paid APIs
 
 🚀 Features
+
+
 🔎 Accepts any company name(s) (e.g., Google, Tesla, Infosys)
 🌐 Searches the internet in real-time (DuckDuckGo scraping)
 📰 Extracts & summarizes latest news articles
