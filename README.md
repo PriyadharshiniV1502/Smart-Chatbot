@@ -27,13 +27,13 @@ Casual conversational style
 <img width="478" height="314" alt="image" src="https://github.com/user-attachments/assets/d7f50e4c-83cd-4d9d-b620-3d45fc217c0c" />
 
 Folder Structures:
+
 smart_news_chatbot/
-│
 
 ├── app.py                        # Gradio UI application entry point
 
 ├── main.py                       # CLI version to run chatbot (optional)
-│
+
 ├── chat_handler.py               # Handles small talk and greetings
 
 ├── company_cleaner.py            # Cleans and processes company name input
