@@ -29,6 +29,7 @@ Casual conversational style
 Folder Structures:
 smart_news_chatbot/
 │
+
 ├── app.py                        # Gradio UI application entry point
 
 ├── main.py                       # CLI version to run chatbot (optional)
@@ -44,7 +45,8 @@ smart_news_chatbot/
 ├── summarizer.py                 # Summarizes article text using HuggingFace model
 
 ├── web_search.py                 # Performs DuckDuckGo search for news links
-│
+
+
 ├── requirements.txt              # List of Python dependencies
 
 Install dependencies
